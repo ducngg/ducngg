@@ -54,13 +54,14 @@ My enthusiasm extends beyond the classroom into numerous extracurricular activit
 - Fusion dishes from many cuisines.
 - Discover tech prducts, dive into the latest innovations.
 - Learning economics, investments, and entrepreneurships.
+- Trying to escape reality.
 
 <div align="center">
   <a href="https://github.com/ducngg"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
-  <a href="www.linkedin.com/in/nguyen-duc-9486b6221"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/nguyen-duc-9486b6221"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
-  <a href="https://www.instagram.com/ngduc/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="Instagram"></a>
+  <a href="https://www.instagram.com/dduwc/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="Instagram"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
   <a href="discordapp.com/users/885881208536461404"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Discord"></a>
 </div>
