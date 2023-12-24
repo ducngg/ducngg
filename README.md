@@ -20,13 +20,13 @@ I'm Duc, Computer Science student at Ho Chi Minh University of Technology.
 ### About me
 I am passionately drawn to the application of AI to drive business growth and improve the quality of people's lives. My learning journey is not confined to strengthening my academic foundation alone; I am dedicated to enhancing my soft skills and management abilities.
 
-My enthusiasm extends beyond the classroom into numerous extracurricular activities, where I actively engage in team-based projects. These experiences have not only honed my collaborative skills but also equipped me to be a valuable team member. I believe in the power of effective teamwork and bring a positive and collaborative spirit to every project I undertake
+My enthusiasm extends beyond the classroom into numerous extracurricular activities, where I actively engage in team-based projects. These experiences have not only honed my collaborative skills but also equipped me to be a valuable team member. I believe in the power of effective teamwork and bring a positive and collaborative spirit to every project I undertake.
 
 ## Interests
-- Computer Vision
-- Natural Language Processing
-- Data Science
-- Software Engineer
+- 🚦 Computer Vision
+- 🔤 Natural Language Processing
+- 📊 Data Science
+- 🖥️ Software Engineer
 
 ## Experiences
 ### Artificial Intelligence Models
@@ -47,14 +47,14 @@ My enthusiasm extends beyond the classroom into numerous extracurricular activit
 - Docker
 
 ## Hobbies
-- Graphic design.
-- Travelling.
-- Random tech talks.
-- Explore cultures and languages, I'm fascinated by the history and people from East Asia.
-- Fusion dishes from many cuisines.
-- Discover tech prducts, dive into the latest innovations.
-- Learning economics, investments, and entrepreneurships.
-- Trying to escape reality.
+- 🎨 Graphic design.
+- 🗺️ Travelling.
+- 🔭 Random tech talks.
+- 🪭 Explore cultures and languages, I'm fascinated by the history and people from East Asia.
+- 🧑🏻‍🍳 Fusion dishes from many cuisines.
+- 💻 Discover tech products, dive into the latest innovations.
+- 📈 Learning economics, investments, and entrepreneurships.
+- 🕳️ Trying to escape reality.
 
 <div align="center">
   <a href="https://github.com/ducngg"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="GitHub"></a>
