@@ -59,7 +59,7 @@ My enthusiasm extends beyond the classroom into numerous extracurricular activit
 <div align="center">
   <a href="https://github.com/ducngg"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
-  <a href="https://linkedin.com/in/nguyen-duc-9486b6221"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/duc-nguyen-phan-tri-9486b6221/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
   <a href="https://www.instagram.com/dduwc/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="Instagram"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
