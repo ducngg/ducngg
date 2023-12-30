@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ducngg/ducngg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Duc, Computer Science student at Ho Chi Minh University of Technology.  
 
 ### About me
@@ -59,7 +44,7 @@ My enthusiasm extends beyond the classroom into numerous extracurricular activit
 <div align="center">
   <a href="https://github.com/ducngg"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
-  <a href="https://www.linkedin.com/in/duc-nguyen-phan-tri-9486b6221/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/duc-nguyen-phan-tri"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
   <a href="https://www.instagram.com/dduwc/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="Instagram"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%">
