@@ -9,9 +9,8 @@ I am passionately drawn to the application of AI to drive business growth and im
 
 ## Interests
 - 🚦 Computer Vision
-- 🔤 Natural Language Processing
+- 🔀 Multimodal LLMs
 - 📊 Data Science
-- 🖥️ Software Engineer
 
 ## Experiences
 ### Machine Learning
