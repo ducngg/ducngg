@@ -1,18 +1,18 @@
-### Hi 👋
-I'm Duc, Computer Science student at Ho Chi Minh University of Technology.  
+### 🏙️
+***Duc.***
 
-### About me
-I am passionately drawn to the application of AI to drive business growth and improve the quality of people's lives. My learning journey is not confined to strengthening my academic foundation alone; I am dedicated to enhancing my soft skills and management abilities.
+Passionately drawn to the application of AI to improve the quality of people's lives.  
+<!-- My learning journey is not confined to strengthening my academic foundation alone; I am dedicated to enhancing my soft skills and management abilities. -->
 
-(I'm also interested in cards and gambling games 😆)
 <!-- My enthusiasm extends beyond the classroom into numerous extracurricular activities, where I actively engage in team-based projects. These experiences have not only honed my collaborative skills but also equipped me to be a valuable team member. I believe in the power of effective teamwork and bring a positive and collaborative spirit to every project I undertake. -->
 
-## Interests
 - 🚦 Computer Vision
-- 🔀 Multimodal LLMs
-- 📊 Data Science
+- 🔀 Multimodal
+- 🇻🇳 Vietnamese language
+  
+(I'm also interested in cards and gambling games haha 😆)
 
-## Experiences
+<!-- ## Experiences
 ### Machine Learning
 - Jupyter
 - PyTorch
@@ -36,7 +36,7 @@ I am passionately drawn to the application of AI to drive business growth and im
 - Travelling, traffic and urban exploring.
 - Explore cultures and languages.
 - Random tech talks, discover tech products, dive into the latest innovations.
-- Economics, investments, and entrepreneurships.
+- Economics, investments, and entrepreneurships. -->
 
 <div align="center">
   <a href="https://github.com/ducngg"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="GitHub"></a>
